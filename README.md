@@ -1,3 +1,2 @@
-# testing-bedrock-devmode-delme
+ tags:
 
-This is some text that have an issues
